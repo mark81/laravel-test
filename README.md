@@ -1,4 +1,4 @@
-## React test
+## Laravel test
 
 ### Prerequisites
 
